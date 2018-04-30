@@ -1,0 +1,6 @@
+c:\users\abellini\documents\visual studio 2015\Projects\Bellini.Loja\bin\Debug\Bellini.Loja.exe.config
+c:\users\abellini\documents\visual studio 2015\Projects\Bellini.Loja\obj\Debug\Bellini.Loja.csprojResolveAssemblyReference.cache
+c:\users\abellini\documents\visual studio 2015\Projects\Bellini.Loja\bin\Debug\Bellini.Loja.exe
+c:\users\abellini\documents\visual studio 2015\Projects\Bellini.Loja\bin\Debug\Bellini.Loja.pdb
+c:\users\abellini\documents\visual studio 2015\Projects\Bellini.Loja\obj\Debug\Bellini.Loja.exe
+c:\users\abellini\documents\visual studio 2015\Projects\Bellini.Loja\obj\Debug\Bellini.Loja.pdb
